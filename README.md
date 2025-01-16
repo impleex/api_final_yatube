@@ -5,7 +5,7 @@
 Клонировать репозиторий и перейти в него в терминале:
 
 ```
-https://github.com/impleex/api_final_yatube.git
+git clone https://github.com/impleex/api_final_yatube.git
 ```
 
 ```
